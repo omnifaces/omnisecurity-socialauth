@@ -12,8 +12,8 @@
 	<version>0.6-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	
-	<name>OmniSecurity</name>
-	<description>Java EE, JSF and JASPIC integrated security</description>
+	<name>OmniSecurity-SocialAuth</name>
+	<description>Extension for the OmniSecurity library to allow use of the SocialAuth library</description>
 
 	<url>http://omnisecurity.omnifaces.org</url>
 	<organization>
